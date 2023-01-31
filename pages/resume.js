@@ -18,10 +18,10 @@ const Resume = () => {
 
   useEffect(() => {
     setMount(true);
-    if (!router.query.showResume) {
+    if (!showResume) {
       router.push("/");
     }
-  }, [router]);
+  }, []);
   return (
     <>
       {process.env.NODE_ENV === "development" && (
