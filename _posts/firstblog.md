@@ -1,62 +1,36 @@
 ---
-date: '2022-07-15T11:50:54.000Z'
-title: Amazing Blog
-tagline: This is a Tagline If you want to add.
+date: '2023-02-02T12:50:54.000Z'
+title: ' Creating a Promotional Video for Académie Epoxy Academy'
+tagline: Showcasing the Artistic and Sustainable Benefits of Epoxy
 preview: >-
-  Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-  Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
-  when an unknown printer took a galley of type and scrambled it to make a type
-  specimen book.
+  Académie Epoxy Academy has revolutionized the epoxy industry with their
+  sustainable and environmentally friendly solutions. Watch our promotional
+  video to see how their unique offerings can bring a new look to your home or
+  business. Discover the artistic and sustainable benefits of epoxy and reduce
+  your consumer footprint for a better future.
 image: >-
-  https://images.unsplash.com/photo-1656188505561-19f1a1b6cda8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1632&q=80
+  https://player.vimeo.com/external/528775028.sd.mp4?s=fc660b23ed121fd439170d25503b95b194da0de8&profile_id=164&oauth2_token_id=57447761
 ---
+# Introduction
 
-# Heading One
+In today's world, businesses need to have an effective and impactful online presence to stand out from the competition. For [Académie Epoxy Academy](https://www.academieepoxyacademy.com), a business that provides sustainable and environmentally friendly epoxy solutions, it was crucial to create a promotional video that showcases their unique offerings and sets them apart from their competitors. In this blog, we'll take a look at the process of creating a promotional video for [Académie Epoxy Academy](https://www.academieepoxyacademy.com) and how it helped them reach their desired outcome.
 
-**Lorem Ipsum** is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+## Project Background
 
-## This is Heading Two
+[Académie Epoxy Academy](https://www.academieepoxyacademy.com) is a business that offers epoxy solutions for commercial, industrial, institutional, residential, and artistic work. They wanted to educate people on the multiple utilities of epoxy and how it can have a positive impact on their homes and businesses. With the goal of reducing their consumer footprint and creating a better future for future generations, they wanted a promotional video that conveyed their message in a concrete, professional, and lighthearted way.
 
-Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
+## Key Elements of the Video
 
-### This is Heading Three
+- Education on the benefits of epoxy: The video aimed to educate people on the multiple utilities of epoxy, including its durability, antibacterial properties, and versatility.
+- Inspiring Story: The video had to tell a story that would inspire people to never stop believing in their dreams and encourage them to choose epoxy for their renovations and decorations.
+- Call to Action: The call to action in the video was to reduce their consumer footprint and take care of the planet for a better future.
+- Combination of Live and Animated Video: To make the video engaging, a combination of live and animated video was used to bring the key messages to life.
+- Lightheartedness: Comedy was a crucial aspect of the video, as the client wanted to convey their message in a lighthearted and entertaining way.
 
-Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
+## Outcome
 
-#### This is Heading Four With Code Block
+The promotional video for [Académie Epoxy Academy](https://www.academieepoxyacademy.com) was a success. It showcased the artistic and sustainable benefits of epoxy in an engaging and entertaining way. The video received positive feedback from the client and helped the business reach its desired outcome of creating a memorable and impactful online presence.
 
-```jsx
-<code className={className} {...props}>
-  {children}
-</code>
-```
+# Conclusion
 
-## BLockquote
-
-> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-
-## Ordered List with horizontal line
-
-1. First item
-2. Second item
-3. Third item
-4. Fourth item
-
----
-
-## Unordered List With Horizontal line
-
-- First item
-- Second item
-- Third item
-- Fourth item
-
----
-
-## Links
-
-My favorite search engine is [Duck Duck Go](https://duckduckgo.com).
-
-## Images
-
-![An old rock in the desert](https://images.unsplash.com/photo-1654475677192-2d869348bb4c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80)
+Promotional videos are a crucial aspect of any business's online presence. By showcasing the unique offerings and benefits of a product or service, a promotional video can make a lasting impact on the audience and help a business reach its desired outcome. In the case of [Académie Epoxy Academy](https://www.academieepoxyacademy.com), their promotional video was a success and helped them educate people on the multiple utilities of epoxy and reach a larger audience.
