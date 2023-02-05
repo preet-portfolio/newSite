@@ -28,9 +28,9 @@ In today's world, businesses need to have an effective and impactful online pres
 - Lightheartedness: Comedy was a crucial aspect of the video, as the client wanted to convey their message in a lighthearted and entertaining way.
 
 ## Outcome
-
-The promotional video for [Académie Epoxy Academy](https://www.academieepoxyacademy.com) was a success. It showcased the artistic and sustainable benefits of epoxy in an engaging and entertaining way. The video received positive feedback from the client and helped the business reach its desired outcome of creating a memorable and impactful online presence.
+Outcome
+I am thrilled to announce that the promotional video for [Académie Epoxy Academy](https://www.academieepoxyacademy.com) was a massive success! The video showcased the artistic and sustainable wonders of epoxy in a captivating and entertaining manner. The feedback from the client was overwhelmingly positive and I'm so proud to say that we exceeded our goal of creating a memorable and impactful online presence.
 
 # Conclusion
 
-Promotional videos are a crucial aspect of any business's online presence. By showcasing the unique offerings and benefits of a product or service, a promotional video can make a lasting impact on the audience and help a business reach its desired outcome. In the case of [Académie Epoxy Academy](https://www.academieepoxyacademy.com), their promotional video was a success and helped them educate people on the multiple utilities of epoxy and reach a larger audience.
+As a consultant and content creator, I truly believe that promotional videos are the backbone of any business's online presence. By highlighting the unique qualities and benefits of a product or service, a promotional video can leave a lasting impression on the audience and help a business achieve their desired outcome. In the case of [Académie Epoxy Academy](https://www.academieepoxyacademy.com), their promotional video was a triumph and helped spread awareness about the versatility and potential of epoxy to a wider audience. I cannot wait to share the video with all of you on my next blog post. Stay tuned!

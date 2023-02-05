@@ -143,7 +143,13 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
               </Button>
             )}
 
-            <Button onClick={() => window.open("mailto:preet2020@icloud.com")}>
+            <Button
+              onClick={() =>
+                window.open(
+                  "https://drive.google.com/file/d/1-ZA4Z8jZjLmAG6SES1NE1sIGpWbXFt3V/view?usp=share_link"
+                )
+              }
+            >
               Contact
             </Button>
             {mounted && theme && data.darkMode && (
@@ -165,7 +171,11 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
             )}
             {showResume && (
               <Button
-                onClick={() => router.push("/resume")}
+                onClick={() =>
+                  window.open(
+                    "https://drive.google.com/file/d/1-ZA4Z8jZjLmAG6SES1NE1sIGpWbXFt3V/view?usp=share_link"
+                  )
+                }
                 classes="first:ml-1"
               >
                 Resume
