@@ -136,22 +136,18 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
             )}
             {showResume && (
               <Button
-                onClick={() => router.push("/resume")}
+                onClick={() =>
+                  window.open(
+                    "https://drive.google.com/file/d/1-ZA4Z8jZjLmAG6SES1NE1sIGpWbXFt3V/view?usp=share_link"
+                  )
+                }
                 classes="first:ml-1"
               >
                 Resume
               </Button>
             )}
 
-            <Button
-              onClick={() =>
-                window.open(
-                  "https://drive.google.com/file/d/1-ZA4Z8jZjLmAG6SES1NE1sIGpWbXFt3V/view?usp=share_link"
-                )
-              }
-            >
-              Contact
-            </Button>
+            <Button>Contact</Button>
             {mounted && theme && data.darkMode && (
               <Button
                 onClick={() => setTheme(theme === "dark" ? "light" : "dark")}
