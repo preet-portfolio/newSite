@@ -1,17 +1,23 @@
 @import url("https://fonts.googleapis.com/css2?family=Hind:wght@400;500;700&display=swap");
+/* Import custom styles from markdown.css */
+@import "./markdown.css";
+
+/* Import Tailwind's base, components, and utilities styles */
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-@import "./markdown.css";
 
+/* Set default font family */
 * {
   font-family: "Hind";
 }
 
+/* Set dark mode styles */
 body {
   @apply dark:bg-black dark:text-white;
 }
 
+/* Define gradient styles */
 .gradient-circle {
   position: absolute;
   pointer-events: none;
@@ -27,6 +33,7 @@ body {
     rgba(107, 107, 248, 0.8) 100%
   );
 }
+
 .gradient-circle-bottom {
   position: absolute;
   pointer-events: none;
@@ -59,11 +66,6 @@ body {
   border-radius: inherit;
 }
 
-/* 
-* Prevents issues when the parent creates a 
-* stacking context. (For example, using the transform
-* property )
-*/
 .gradient-shadow:hover::after {
   content: "";
   z-index: -1;
