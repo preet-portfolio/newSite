@@ -7,7 +7,8 @@ import Socials from "../components/Socials";
 import Button from "../components/Button";
 import { useTheme } from "next-themes";
 // Data
-import { name, showResume, resume } from "../data/portfolio.json";
+import { name, showResume } from "../data/portfolio.json";
+import { resume } from "../data/portfolio.json";
 import data from "../data/portfolio.json";
 
 const Resume = () => {
@@ -20,7 +21,7 @@ const Resume = () => {
     if (!showResume) {
       router.push("/");
     }
-  }, [router]);
+  }, []);
   return (
     <>
       {process.env.NODE_ENV === "development" && (
@@ -130,4 +131,4 @@ const Resume = () => {
   );
 };
 
-export default resume;
+export default Resume;
