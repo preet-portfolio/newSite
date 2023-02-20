@@ -23,6 +23,7 @@ const nextConfig = {
       "images.unsplash.com",
       "player.vimeo.com",
       "vod-progressive.akamaized.net",
+      "i.imgur.com",
     ],
     deviceSizes: [320, 420, 768, 1024, 1200],
     imageSizes: [16, 32, 48, 64, 96],
