@@ -1,14 +1,3 @@
-// const nextConfig = {
-//   reactStrictMode: true,
-//   images: {
-//     domains: ["images.pexels.com", "images.unsplash.com", "player.vimeo.com"],
-//     deviceSizes: [320, 420, 768, 1024, 1200],
-//     imageSizes: [16, 32, 48, 64, 96],
-//   },
-// };
-
-// module.exports = nextConfig;
-
 const withMDX = require("@next/mdx")({
   extension: /\.mdx?$/,
   options: {
