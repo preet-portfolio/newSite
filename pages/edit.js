@@ -54,9 +54,11 @@ const Edit = () => {
   };
 
   const deleteProject = (id) => {
-    const copyProjects = data.projects;
-    copyProjects = copyProjects.filter((project) => project.id !== id);
-    setData({ ...data, projects: copyProjects });
+    const copyProjects = [...data.projects];
+    const filteredProjects = copyProjects.filter(
+      (project) => project.id !== id
+    );
+    setData({ ...data, projects: filteredProjects });
   };
 
   // Services Handler
