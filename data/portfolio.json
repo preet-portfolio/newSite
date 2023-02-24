@@ -41,9 +41,9 @@
             "title": "ChitraAI",
             "description": "Our Full Stack MERN AI Image Generation App uses the latest in AI technology to help you create the most stunning and unique images you've ever seen. With a user-friendly interface and a wide range of customization options, it's easy to make your images stand out.",
             "imageSrc": {
-                "src": "https://images.pexels.com/photos/8386434/pexels-photo-8386434.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-                "height": 1500,
-                "width": 1260
+                "src": "https://i.imgur.com/IbIzcPH.png",
+                "width": 1260,
+                "height": 750
             },
             "url": "http://chitra-ai.vercel.app"
         },
@@ -52,11 +52,11 @@
             "title": "Cloned ChatGPT",
             "description": "Web Development",
             "imageSrc": {
-                "src": "https://images.pexels.com/photos/8386434/pexels-photo-8386434.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+                "src": "https://i.imgur.com/t0dcCBf.png",
                 "width": 1260,
                 "height": 750
             },
-            "url": "http://google.com/"
+            "url": "https://radiant-reflections.vercel.app"
         },
         {
             "id": "3",
