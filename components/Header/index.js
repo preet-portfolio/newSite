@@ -78,7 +78,11 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
                   )}
                   {showResume && (
                     <Button
-                      onClick={() => window.open("mailto:preet2020@icloud.com")}
+                      onClick={() =>
+                        window.open(
+                          "https://drive.google.com/file/d/1-AGUBqkJ5SwC3TuXPSG19cGfF64HBQoz/view?usp=share_link"
+                        )
+                      }
                     >
                       Resume
                     </Button>
@@ -100,7 +104,11 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
                   )}
                   {showResume && (
                     <Button
-                      onClick={() => router.push("/resume")}
+                      onClick={() =>
+                        router.push(
+                          "https://drive.google.com/file/d/1-AGUBqkJ5SwC3TuXPSG19cGfF64HBQoz/view?usp=share_link"
+                        )
+                      }
                       classes="first:ml-1"
                     >
                       Resume
@@ -140,7 +148,7 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
               <Button
                 onClick={() =>
                   window.open(
-                    "https://drive.google.com/file/d/1-ZA4Z8jZjLmAG6SES1NE1sIGpWbXFt3V/view?usp=share_link"
+                    "https://drive.google.com/file/d/1-AGUBqkJ5SwC3TuXPSG19cGfF64HBQoz/view?usp=share_link"
                   )
                 }
                 classes="first:ml-1"
@@ -171,7 +179,7 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
               <Button
                 onClick={() =>
                   window.open(
-                    "https://drive.google.com/file/d/1-ZA4Z8jZjLmAG6SES1NE1sIGpWbXFt3V/view?usp=share_link"
+                    "https://drive.google.com/file/d/1-AGUBqkJ5SwC3TuXPSG19cGfF64HBQoz/view?usp=share_link"
                   )
                 }
                 classes="first:ml-1"
