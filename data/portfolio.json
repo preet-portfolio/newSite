@@ -60,14 +60,14 @@
         },
         {
             "id": "3",
-            "title": "Project Three",
-            "description": "Design",
+            "title": "Ottawa Bites🥖",
+            "description": "Ottawa Bites is a responsive website template built using Next.js and Tailwind CSS. This project is perfect for anyone looking to create a website for a fast food restaurant, delivery service, or any other food-related business. The template features a clean and modern design, with easy-to-navigate sections for showcasing the restaurant's menu, location, contact information, and hours of operation. The use of Next.js ensures fast page loading times, while Tailwind CSS makes it easy to customize the look and feel of the website to match your brand's unique style. Whether you're a small business owner or a web developer looking for a pre-made template to build upon, Ottawa Bites is an excellent choice.",
             "imageSrc": {
-                "src": "https://images.pexels.com/photos/8386434/pexels-photo-8386434.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+                "src": "https://i.imgur.com/ZWLFmvI.png",
                 "width": 1260,
                 "height": 750
             },
-            "url": "http://google.com/"
+            "url": "https://catering-service.vercel.app"
         },
         {
             "id": "4",

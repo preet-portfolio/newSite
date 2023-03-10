@@ -1,3 +1,4 @@
+/* eslint-disable @next/next/no-img-element */
 /* eslint-disable react/jsx-no-undef */
 import React, { useRef, useState } from "react";
 import { getPostBySlug, getAllPosts } from "../../utils/api";
@@ -39,11 +40,10 @@ const BlogPost = ({ post }) => {
       >
         <Header isBlog={true} />
         <div className="mt-10 flex flex-col">
-          <Image
+          <img
+            className="mx-auto"
             src={post.image}
             alt={post.title}
-            width={500}
-            height={500}
             layout="responsive"
           />
           <h1

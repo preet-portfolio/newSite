@@ -25,6 +25,7 @@ const nextConfig = {
       "player.vimeo.com",
       "vod-progressive.akamaized.net",
       "i.imgur.com",
+      "res.cloudinary.com",
     ],
     deviceSizes: [320, 420, 768, 1024, 1200],
     imageSizes: [16, 32, 48, 64, 96],
