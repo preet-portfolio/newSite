@@ -1,54 +1,49 @@
-### Features -
+# vscode-portfolio
+[![Open is Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/itsnitinr/vscode-portfolio)
 
-- Modern Stack (Next.js + TailwindCSS)
-- Minimal Design
-- Easy To Browse
-- Easy To Customize your details With GUI
-- Blog Crud (Create, Read, Update, Delete blog with easy to use UI).
-- Dark Mode
+A Visual Studio Code themed developer portfolio website built with Next.js and deployed on Vercel.
 
-### Sections
+![vscode-portfolio banner](https://imgur.com/JXJ9mpO.gif)
 
-- Header
-- Work
-- Services
-- About
-- Contact
-- Markdown Blog
+## Features Roadmap
 
-### How To Use
+- [ ] Themes and customizations
+  - [x] GitHub Dark (default)
+  - [ ] One Dark Pro
+  - [x] Dracula
+  - [x] Ayu
+  - [x] Nord
+- [ ] Interactive custom terminal
 
-- Clone this repo
-- run `yarn`
-- `yarn dev`
+For other features and themes suggestions, please open an issue.
 
-### How To Deploy -
+## Environment Variables
 
-- There are many ways to Deploy this repo.
-- here we are gonna use netlify
-- Login into netlify with github
-- after login select the forked repo or the repo you want to deploy
-- after selecting netlify will automatially deploy your website.
+For fetching your articles from dev.to, create an `.env.local` file inside the project directory. Check the `.env.local.example` file for more information.
 
-Quickes way to deploy this repo -
+## Running Development Server
 
-[![Deploy To Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/chetanverma16/react-portfolio-template)
+```bash
+npm run dev
+# or
+yarn dev
+```
 
-### How To Contribute -
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-I would be very happy to review your PRs and all the awesome things that you can improve on this portfolio.
+All VSCode related components can be found in the `components` folder. To change the content of the portfolio, check out the `pages` folder. To add or remove pages, modify `components/Sidebar.jsx` and `components/Tabsbar.jsx`.
 
-### Tech Stack Used -
+## Next.js Resources
 
-- Next.js
-- TailwindCSS
+To learn more about Next.js, take a look at the following resources:
 
-### Thanks
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-If you liked this portfolio template, don't forget to give it a ⭐.
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/)
 
-## Supporting
+## Deploy on Vercel
 
-Many hours of hard work have gone into this project. Your support will be very appreciated!
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)(https://www.buymeacoffee.com/PreetPanchal)]
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.

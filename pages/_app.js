@@ -1,12 +1,25 @@
+import { useEffect, useState } from "react";
+import Layout from "../components/Layout";
+import Head from "../components/Head";
 import "../styles/globals.css";
-import { ThemeProvider } from "next-themes";
+import "../styles/themes.css";
 
-const App = ({ Component, pageProps }) => {
+function MyApp({ Component, pageProps }) {
+  useEffect(() => {
+    if (localStorage.getItem("theme")) {
+      document.documentElement.setAttribute(
+        "data-theme",
+        localStorage.getItem("theme")
+      );
+    }
+  }, []);
+
   return (
-    <ThemeProvider>
+    <Layout>
+      <Head title={`Preet Panchal | ${pageProps.title}`} />
       <Component {...pageProps} />
-    </ThemeProvider>
+    </Layout>
   );
-};
+}
 
-export default App;
+export default MyApp;
